@@ -1,0 +1,9 @@
+[
+  {"state":  "Tamil Nadu",
+    "cities": ["Chennai", "Madurai", "Coimbatore"]
+  },
+  {
+    "state": "Karnataka",
+    "cities": ["Bengaluru", "Udipi", "Mangaluru"]
+  }
+]
